@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JankeeDodiya
 - 👀 I’m interested to learn new things always
-- 🌱 I’m currently learning more and more in php , js
+- 🌱 I worked on PHP and Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ,mail on jkd2704@gmail.com
+- 📫 How to reach me ,mail on jankeedodiya2704@gmail.com
 
 <!---
 JankeeDodiya/JankeeDodiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
