@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JankeeDodiya
 - 👀 I’m interested to learn new things always
-- 🌱 I worked on PHP and Python.
+- 🌱 I worked on Tesing and developing software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,mail on jankeedodiya2704@gmail.com
 
