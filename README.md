@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JankeeDodiya
+- 👋 Hi, I’m @Jankee K. Dodiya
 - 👀 I’m interested to learn new things always
 - 🌱 Working in Field of ML/AI, also had work experience on Developing & Tesing software.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,mail on jankeedodiya2704@gmail.com
 
 <!---
